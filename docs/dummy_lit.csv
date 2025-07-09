@@ -1,0 +1,388 @@
+pmid,title,authors,journal,year,gene,variant,disease,study_type,n_patients,effect_size,abstract,url
+111111,TP53 missense variants drive colorectal cancer progression,Smith J; Lee H,Cancer Res,2022,TP53,R175H,colorectal cancer,case-control,120,2.3,Mutations such as R175H in TP53 are enriched in colorectal tumors and correlate with poor prognosis and chemoresistance.,https://pubmed.ncbi.nlm.nih.gov/111111/
+222222,BRCA1 frameshift 185delAG and hereditary breast cancer,Gonzalez A; Patel R,Nat Genet,2021,BRCA1,185delAG,breast cancer,familial,87,5.1,"The 185delAG frameshift mutation in BRCA1 disrupts DNA repair, leading to genomic instability and a marked increase in hereditary breast cancer risk.",https://pubmed.ncbi.nlm.nih.gov/222222/
+333333,EGFR exon 19 deletions predict NSCLC response to TKIs,Cheng L; Moore D,J Thorac Oncol,2020,EGFR,Exon 19 deletion,non-small cell lung cancer,clinical trial,142,3.7,Patients with NSCLC harboring EGFR exon 19 deletions demonstrate prolonged progression-free survival when treated with tyrosine kinase inhibitors like erlotinib.,https://pubmed.ncbi.nlm.nih.gov/333333/
+444444,KRAS G12D mutation drives pancreatic tumorigenesis,Nguyen P; Kim Y,Cell Rep,2019,KRAS,G12D,pancreatic cancer,in vivo model,0,4.6,"Using murine models, KRAS G12D mutations were shown to be sufficient to initiate pancreatic intraepithelial neoplasia and progression to invasive cancer.",https://pubmed.ncbi.nlm.nih.gov/444444/
+555555,ALK fusion proteins in pediatric anaplastic large cell lymphoma,Singh R; O’Neill B,Blood,2018,ALK,NPM-ALK,ALCL,observational,63,2.8,"NPM-ALK fusion proteins drive oncogenesis in pediatric ALCL through constitutive kinase activity and STAT3 pathway activation, highlighting targets for therapy.",https://pubmed.ncbi.nlm.nih.gov/555555/
+666666,PTEN loss enhances PI3K/AKT signaling in glioblastoma,Wang Z; Hernandez F,Neuro Oncol,2021,PTEN,loss-of-function,glioblastoma,cell culture,0,3.0,"PTEN-deficient glioblastoma cells show increased proliferation due to unregulated PI3K/AKT signaling, implicating pathway inhibitors as viable treatments.",https://pubmed.ncbi.nlm.nih.gov/666666/
+777777,CFTR F508del correction in cystic fibrosis organoids,Klein A; Desai M,Sci Transl Med,2022,CFTR,F508del,cystic fibrosis,organoid,8,2.9,"Corrector-potentiator combinations restored chloride conductance in patient-derived organoids with F508del CFTR, supporting ex vivo modeling of therapeutic efficacy.",https://pubmed.ncbi.nlm.nih.gov/777777/
+888888,APC truncation mutations and WNT activation in colorectal tumors,Lee H; Gomez T,Mol Cancer Res,2017,APC,truncation,colorectal cancer,tissue analysis,34,1.9,"Truncated APC proteins fail to degrade β-catenin, resulting in constitutive WNT pathway activation and promotion of tumor growth in colorectal tissue.",https://pubmed.ncbi.nlm.nih.gov/888888/
+999999,IDH1 R132H mutation alters glioma epigenome,Zhao M; Kaur D,Cancer Cell,2016,IDH1,R132H,low-grade glioma,epigenomics,47,3.3,"The R132H mutation in IDH1 produces 2-hydroxyglutarate, causing widespread DNA hypermethylation and altering gene expression profiles in gliomas.",https://pubmed.ncbi.nlm.nih.gov/999999/
+101010,MLH1 promoter methylation in Lynch syndrome colorectal cancers,Ahmed S; Tanaka K,JAMA Oncol,2023,MLH1,methylation,colorectal cancer,epigenetics,91,2.1,"Promoter methylation of MLH1 silences mismatch repair activity in Lynch-associated colorectal cancers, leading to microsatellite instability and higher mutational burden.",https://pubmed.ncbi.nlm.nih.gov/101010/
+333333,Novel CFTR G551D corrector improves chloride conductance,Zhang Q; Rivera L,J Clin Invest,2023,CFTR,G551D,cystic fibrosis,randomized trial,56,1.8,A small-molecule corrector targeting G551D increases channel open probability...,https://pubmed.ncbi.nlm.nih.gov/333333/
+,"Breast Cancer: Symptoms, Types, Causes & Treatment",,,,,,,,,,"Breast cancer is when breast cells mutate and become cancerous cells that multiply and form tumors. Breast cancer typically affects women age 50 and older, ...",https://my.clevelandclinic.org/health/diseases/3986-breast-cancer
+,Cryoablation and Immunotherapy for Breast Cancer: Overview and Rationale for Combined Therapy.,Helaina C Regen-Tuero; R. C. Ward; W. Sikov; P. Littrup,,2021,,,,,,,"Cryoablation is a well-tolerated outpatient procedure that has been used to treat metastatic sites as well as small breast cancers in patients who are considered poor candidates for surgery. Recent studies suggest that cell disruption caused by cryoablation may increase the expression and immunogenicity of tumor neoantigens, which could enhance the ability of the immune system to recognize and attack cancer cells at both local and distant sites. Such an approach might broaden the role of immunotherapy for the treatment of breast cancer, which has previously demonstrated limited response to these agents, likely owing to the modest immunogenicity of most breast cancer subtypes. If cryoablation can induce a systemic tumor-specific response, it could enhance tumor susceptibility to immunotherapy agents. This review briefly summarizes the necessary components for generating an immune response against tumor cells, reviews the tumor microenvironment of breast cancer, describes the rationale for and limitations of immune checkpoint inhibition, highlights the potential for cryoablation to induce a systemic tumor-specific immune response, and describes the rationale for combining cryoablation and immune checkpoint inhibitors for the treatment of breast cancer. Keywords: Ablation Techniques, Breast, Neoplasms-Primary, Percutaneous, Tumor Microenvironment, Tumor Response, Ultrasonography © RSNA, 2021.",https://www.semanticscholar.org/paper/026d85dbe01e80caf40d95f1d0dac15f62fc3a75
+,A Comprehensive Review for Breast Histopathology Image Analysis Using Classical and Deep Neural Networks,Xiaomin Zhou; Chen Li; Md Mamunur Rahaman,arXiv,2020,,,,,,,"Breast cancer is one of the most common and deadliest cancers among women.
+Since histopathological images contain sufficient phenotypic information, they
+play an indispensable role in the diagnosis and treatment of breast cancers. To
+improve the accuracy and objectivity of Breast Histopathological Image Analysis
+(BHIA), Artificial Neural Network (ANN) approaches are widely used in the
+segmentation and classification tasks of breast histopathological images. In
+this review, we present a comprehensive overview of the BHIA techniques based
+on ANNs. First of all, we categorize the BHIA systems into classical and deep
+neural networks for in-depth investigation. Then, the relevant studies based on
+BHIA systems are presented. After that, we analyze the existing models to
+discover the most suitable algorithms. Finally, publicly accessible datasets,
+along with their download links, are provided for the convenience of future
+researchers.",http://arxiv.org/abs/2003.12255v2
+,An updated overview of radiomics-based artificial intelligence (AI) methods in breast cancer screening and diagnosis,Reza Elahi; Mahdis Nazari,arXiv,2024,,,,,,,"Current imaging methods for diagnosing BC are associated with limited
+sensitivity and specificity and modest positive predictive power. The recent
+progress in image analysis using artificial intelligence (AI) has created great
+promise to improve breast cancer (BC) diagnosis and subtype differentiation. In
+this case, novel quantitative computational methods, such as radiomics, have
+been developed to improve the sensitivity and specificity of early BC diagnosis
+and classification. The potential of radiomics in improving the diagnostic
+efficacy of imaging studies has been shown in several studies. In this review
+article, we discuss the radiomics workflow and current hand-crafted radiomics
+methods in the diagnosis and classification of BC based on most recent studies
+on different imaging modalities, e.g. MRI, mammography, contrast-enhanced
+spectral mammography (CESM), ultrasound imaging, and digital breast
+tumosynthesis (DBT). We also discuss current challenges and potential
+strategies to improve the specificity and sensitivity of radiomics in breast
+cancer to help achieve a higher level of BC classification and diagnosis in the
+clinical setting. The growing field of AI incorporation with imaging
+information has opened a great opportunity to provide a higher level of care
+for BC patients.",http://arxiv.org/abs/2406.14735v1
+,Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review,Chuang Zhu; Shengjie Liu; Zekuan Yu,arXiv,2023,,,,,,,"For invasive breast cancer, immunohistochemical (IHC) techniques are often
+used to detect the expression level of human epidermal growth factor receptor-2
+(HER2) in breast tissue to formulate a precise treatment plan. From the
+perspective of saving manpower, material and time costs, directly generating
+IHC-stained images from Hematoxylin and Eosin (H&E) stained images is a
+valuable research direction. Therefore, we held the breast cancer
+immunohistochemical image generation challenge, aiming to explore novel ideas
+of deep learning technology in pathological image generation and promote
+research in this field. The challenge provided registered H&E and IHC-stained
+image pairs, and participants were required to use these images to train a
+model that can directly generate IHC-stained images from corresponding
+H&E-stained images. We selected and reviewed the five highest-ranking methods
+based on their PSNR and SSIM metrics, while also providing overviews of the
+corresponding pipelines and implementations. In this paper, we further analyze
+the current limitations in the field of breast cancer immunohistochemical image
+generation and forecast the future development of this field. We hope that the
+released dataset and the challenge will inspire more scholars to jointly study
+higher-quality IHC-stained image generation.",http://arxiv.org/abs/2305.03546v2
+,Using data mining techniques for diagnosis and prognosis of cancer disease,Shweta Kharya,arXiv,2012,,,,,,,"Breast cancer is one of the leading cancers for women in developed countries
+including India. It is the second most common cause of cancer death in women.
+The high incidence of breast cancer in women has increased significantly in the
+last years. In this paper we have discussed various data mining approaches that
+have been utilized for breast cancer diagnosis and prognosis. Breast Cancer
+Diagnosis is distinguishing of benign from malignant breast lumps and Breast
+Cancer Prognosis predicts when Breast Cancer is to recur in patients that have
+had their cancers excised. This study paper summarizes various review and
+technical articles on breast cancer diagnosis and prognosis also we focus on
+current research being carried out using the data mining techniques to enhance
+the breast cancer diagnosis and prognosis.",http://arxiv.org/abs/1205.1923v1
+,A frame semantic overview of NLP-based information extraction for cancer-related EHR notes,Surabhi Datta; Elmer V Bernstam; Kirk Roberts,arXiv,2019,,,,,,,"Objective: There is a lot of information about cancer in Electronic Health
+Record (EHR) notes that can be useful for biomedical research provided natural
+language processing (NLP) methods are available to extract and structure this
+information. In this paper, we present a scoping review of existing clinical
+NLP literature for cancer. Methods: We identified studies describing an NLP
+method to extract specific cancer-related information from EHR sources from
+PubMed, Google Scholar, ACL Anthology, and existing reviews. Two exclusion
+criteria were used in this study. We excluded articles where the extraction
+techniques used were too broad to be represented as frames and also where very
+low-level extraction methods were used. 79 articles were included in the final
+review. We organized this information according to frame semantic principles to
+help identify common areas of overlap and potential gaps. Results: Frames were
+created from the reviewed articles pertaining to cancer information such as
+cancer diagnosis, tumor description, cancer procedure, breast cancer diagnosis,
+prostate cancer diagnosis and pain in prostate cancer patients. These frames
+included both a definition as well as specific frame elements (i.e. extractable
+attributes). We found that cancer diagnosis was the most common frame among the
+reviewed papers (36 out of 79), with recent work focusing on extracting
+information related to treatment and breast cancer diagnosis. Conclusion: The
+list of common frames described in this paper identifies important
+cancer-related information extracted by existing NLP techniques and serves as a
+useful resource for future researchers requiring cancer information extracted
+from EHR notes. We also argue, due to the heavy duplication of cancer NLP
+systems, that a general purpose resource of annotated cancer frames and
+corresponding NLP tools would be valuable.",http://arxiv.org/abs/1904.01655v1
+,BRCA1 frameshift variants leading to extended incorrect ...,,,,,,,,,,Carriers of BRCA1 germline pathogenic variants are at substantially higher risk of developing breast and ovarian cancer than the general population.,https://pmc.ncbi.nlm.nih.gov/articles/PMC10558845/
+,Mutation Spectrum Analysis of BRCA1/2 Genes for Hereditary Breast and Ovarian Cancer in the Indian Population,Kunjal Lila; Harshita Bhanushali; Milind Chanekar; R. Jatale; Monisha Banerjee; Rakhi Bajpai Dixit; A. Rajadhyaksha; Kirti Chadha,,2024,,,,,,,"Objective: The objective of this study was to determine the prevalence and spectrum of genetic mutations linked to inherited breast and ovary cancer (HBOC) in the Indian population, and to evaluate the correlation of BRCA mutation types, frequency, and incidence with age, gender, and personal and family history. Methods: A retrospective cohort of 500 Indian HBOC patients, meeting NCCN criteria who underwent BRCA1/2 testing from 2017 to 2023 were shortlisted for this study. The anonymized data was retrieved from medical records. Genetic analysis was conducted using Next Generation Sequencing (NGS) on the Thermo Ion GeneStudio™ S5 System, with positive mutations confirmed via Sanger sequencing. Peripheral blood samples were processed for DNA extraction, library preparation, and variant classification following ACMG guidelines. Results: Out of the 500 patients, 119 (23.8%) were positive for BRCA mutations, and 381 (76.2%) were negative. The prevalence of BRCA pathogenesis, likely pathogenicity, and variants of uncertain significance (VUSs) were 14.8%, 1.6%, and 7.4%, respectively. A total of 128 mutations were detected in the positive BRCA1/2 patients. A statistically significant correlation was found between BRCA mutations with the patient and family history. A total of 38.8% of the patients with mutations had a family history of BC, OC or BC/OC, while 7.6% had other cancers. BRCA mutations were predominant (26.2%) in the age group of 46-65 Y. Among the 128 mutations, 59.3% (76/128) and 40.6% (52/12) of the patients had mutations in BRCA1 and BRCA2, respectively. Missense mutations were the most common in both the BRCA1 (30.26%) and BRCA2 (55.77%) genes, followed by frameshift (22.3%) and nonsense (17.3%) mutations in BRCA1 and BRCA2, respectively. Conclusion: BRCA positivity was detected in 23.8% of the patients. A statistically significant association was shown between BRCA mutations and patient and family history.",https://www.semanticscholar.org/paper/29f789551b48d07af4b9ce0f712f43dcef1f0f91
+,A Competing Risks Model with Binary Time Varying Covariates for Estimation of Breast Cancer Risks in BRCA1 Families,Yun-Hee Choi; Hae Jung; Saundra Buys,arXiv,2020,,,,,,,"Mammographic screening and prophylactic surgery such as risk-reducing
+salpingo oophorectomy (RRSO) can potentially reduce breast cancer risks among
+mutation carriers of BRCA families. The evaluation of these interventions is
+usually complicated by the fact that their effects on breast cancer may change
+over time and by the presence of competing risks. We introduce a correlated
+competing risks model to model breast and ovarian cancer risks within BRCA1
+families that accounts for time-varying covariates (TVCs). Different parametric
+forms for these TVCs are proposed for more flexibility and a correlated gamma
+frailty model is specified to account for the correlated competing events. We
+also introduced a new ascertainment correction approach that accounts for the
+selection of families through probands affected with either breast or ovarian
+cancer, or unaffected. Our simulation studies demonstrate the good performances
+of our proposed approach in terms of bias and precision of the estimators of
+model parameters and cause-specific penetrances over different levels of
+familial correlations. We apply our new approach to 498 BRCA1 mutation carrier
+families recruited through the Breast Cancer Family Registry. Our results
+demonstrate the importance of the functional form of the TVC when assessing the
+role of RRSO on breast cancer. In particular, under the best fitting TVC model,
+the overall effect of RRSO on breast cancer risk was statistically significant
+in women with BRCA1.",http://arxiv.org/abs/2002.05249v2
+,Predicting clinical significance of BRCA1 and BRCA2 single nucleotide substitution variants with unknown clinical significance using probabilistic neural network and deep neural network-stacked autoencoder,Ehsan Rahmatizad KhajePasha; Mahdi Bazarghan; Hamidreza Kheiri Manjili,arXiv,2018,,,,,,,"Non-synonymous single nucleotide polymorphisms (nsSNPs) are single nucleotide
+substitution occurring in the coding region of a gene and leads to a change in
+amino-acid sequence of protein. The studies have shown these variations may be
+associated with disease. Thus, investigating the effects of nsSNPs on protein
+function will give a greater insight on how nsSNPs can lead into disease.
+Breast cancer is the most common cancer among women causing highest cancer
+death every year. BRCA1 and BRCA2 tumor suppressor genes are two main
+candidates of which, mutations in them can increase the risk of developing
+breast cancer. For prediction and detection of the cancer one can use
+experimental or computational methods, but the experimental method is very
+costly and time consuming in comparison with the computational method. The
+computer and computational methods have been used for more than 30 years. Here
+we try to predict the clinical significance of BRCA1 and BRCA2 nsSNPs as well
+as the unknown clinical significances. Nearly 500 BRCA1 and BRCA2 nsSNPs with
+known clinical significances retrieved from NCBI database. Based on
+hydrophobicity or hydrophilicity and their role in proteins' second structure,
+they are divided into 6 groups, each assigned with scores. The data are
+prepared in the acceptable form to the automated prediction mechanisms,
+Probabilistic Neural Network (PNN) and Deep Neural NetworkStacked AutoEncoder
+(DNN). With Jackknife cross validation we show that the prediction accuracy
+achieved for BRCA1 and BRCA2 using PNN are 87.97% and 82.17% respectively,
+while 95.41% and 92.80% accuracies achieved using DNN. The total required
+processing time for the training and testing the PNN is 0.9 second and DNN
+requires about 7 hours of training and it can predict instantly. both methods
+show great improvement in accuracy and speed compared to previous attempts.",http://arxiv.org/abs/1805.02176v1
+,BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants,Woowon Jang; Shiwoo Koak; Jiwon Im,arXiv,2023,,,,,,,"BRCA genes, comprising BRCA1 and BRCA2 play indispensable roles in preserving
+genomic stability and facilitating DNA repair mechanisms. The presence of
+germline mutations in these genes has been associated with increased
+susceptibility to various cancers, notably breast and ovarian cancers. Recent
+advancements in cost-effective sequencing technologies have revolutionized the
+landscape of cancer genomics, leading to a notable rise in the number of
+sequenced cancer patient genomes, enabling large-scale computational studies.
+In this study, we delve into the BRCA mutations in the dbSNP, housing an
+extensive repository of 41,177 and 44,205 genetic mutations for BRCA1 and
+BRCA2, respectively. Employing meticulous computational analysis from an
+umbrella perspective, our research unveils intriguing findings pertaining to a
+number of critical aspects. Namely, we discover that the majority of BRCA
+mutations in dbSNP have unknown clinical significance. We find that, although
+exon 11 for both genes contains the majority of the mutations and may seem as
+if it is a mutation hot spot, upon analyzing mutations per base pair, we find
+that all exons exhibit similar levels of mutations. Investigating mutations
+within introns, while we observe that the recorded mutations are generally
+uniformly distributed, almost all of the pathogenic mutations in introns are
+located close to splicing regions (at the beginning or the end). In addition to
+the findings mentioned earlier, we have also made other discoveries concerning
+mutation types and the level of confidence in observations within the dbSNP
+database.",http://arxiv.org/abs/2309.00311v1
+,Multilevel classification framework for breast cancer cell selection and its integration with advanced disease models,Catarina Franco Jones; Diogo Dias; Ana C. Moreira,arXiv,2025,,,,,,,"Breast cancer cell lines are indispensable tools for unraveling disease
+mechanisms, enabling drug discovery, and developing personalized treatments,
+yet their heterogeneity and inconsistent classification pose significant
+challenges in model selection and data reproducibility. This review aims at
+providing a comprehensive and user-friendly framework for broadly mapping the
+features of breast cancer types and commercially available human breast cancer
+cell lines, defining absolute criteria, i.e. objective features such as origin
+(e.g., MDA-MB, MCF), histological subtype (ductal, lobular), hormone receptor
+status (ER/PR/HER2), and genetic mutations (BRCA1, TP53), and relative
+criteria, which contextualize functional behaviors like metastatic potential,
+drug sensitivity, and genomic instability. It then examines how the proposed
+framework could be applied to cell line screening in advanced and emerging
+disease models. By supporting better informed choices, this work aims to
+improve experimental design and strengthen the connection between in vitro
+breast cancer studies and their clinical translation.",http://arxiv.org/abs/2502.15868v2
+,Novel Method for Mutational Disease Prediction using Bioinformatics Techniques and Backpropagation Algorithm,Ayad Ghany Ismaeel; Anar Auda Ablahad,arXiv,2013,,,,,,,"Cancer is one of the most feared diseases in the world it has increased
+disturbingly and breast cancer occurs in one out of eight women, the prediction
+of malignancies plays essential roles not only in revealing human genome, but
+also in discovering effective prevention and treatment of cancers. Generally
+cancer disease driven by somatic mutations in an individual DNA sequence, or
+genome that accumulates during the lifetime of person. This paper is proposed a
+novel method can predict the disease by mutations despite The presence in gene
+sequence is not necessary it are malignant, so will be compare the protein of
+patient with the gene's protein of disease if there is difference between these
+two proteins then can say there is malignant mutations. This method will use
+bioinformatics techniques like FASTA, CLUSTALW, etc which shows whether
+malignant mutations or not, then training the backpropagation algorithm using
+all expected malignant mutations for a certain genes (e.g. BRCA1 and BRCA2) of
+disease, and using it to test whether patient is holder the disease or not.
+Implementing this novel method as the first way to predict the disease based on
+mutations in the sequence of the gene that causes the disease shows two
+decisions are achieved successfully, the first diagnose whether the patient has
+mutations of cancer or not using bioinformatics techniques the second
+classifying these mutations are related to breast cancer (e.g. BRCA1 and BRCA2)
+using backpropagation with mean square rate 0.0000001. Keywords-Gene sequence;
+Protein; Deoxyribonucleic Acid DNA; Malignant mutation; Bioinformatics;
+Back-propagation algorithm.",http://arxiv.org/abs/1303.0539v1
+,p53 mutations in colorectal cancer,,,,,,,,,,"In a TP53 colorectal cancer international collaborative study, it was observed that patients with mutant p53 in exon 5 had worse outcome for proximal colon ...",https://pmc.ncbi.nlm.nih.gov/articles/PMC4284363/
+,p53 in colorectal cancer: from a master player to a privileged therapy target,Sicheng Yan; Fuyuan Zhan; Yuxuan He; Yuehong Zhu; Zhihong Ma,,2025,,,,,,,"Colorectal cancer (CRC) is the third most prevalent malignancy and the second leading cause of cancer-related mortality worldwide. The pathogenesis of CRC primarily stems from the gradual accumulation of genetic mutations, which drive oncogene (e.g., KRAS) activation and tumor suppressor gene (e.g., TP53) inactivation. Loss of genetic stability facilitates the conversion of proto-oncogenes into active oncogenes and the functional impairment of tumor suppressors, collectively propelling CRC progression. The tumor suppressor protein p53, a transcription factor, induces cell cycle arrest, apoptosis, and DNA damage repair under cellular stress, and prevents cancer development by regulating various cellular responses. However, in CRC pathogenesis, TP53 mutations (detected in ~ 74% of cases) subvert these protective mechanisms through dual mechanisms: (i) dominant-negative suppression of wild-type p53 (wt-p53) function, and (ii) acquisition of neomorphic pro-tumorigenic activities, termed gain-of-function (GOF) mutations. New evidence from laboratory and clinical trials shows that some new therapeutic strategies have the potential to treat CRC by reactivating and restoring p53 function, depleting p53 mutants, or targeting p53 with immunotherapy. In this review, we summarize the function of p53 and characterize its mutation in CRC, emphasizing the influence of p53 mutation in the pathogenesis of CRC. In addition, we also describe the current therapeutic strategies for targeting p53 mutants in CRC.",https://www.semanticscholar.org/paper/366c1fd84b915fa1e7d9335c6be5c8ce5ddaee30
+,New Approach for Prediction Pre-cancer via Detecting Mutated in Tumor Protein P53,Ayad Ghany Ismaeel,arXiv,2013,,,,,,,"Tumor protein P53 is believed to be involved in over half of human cancers
+cases, the prediction of malignancies plays essential roles not only in advance
+detection for cancer, but also in discovering effective prevention and
+treatment of cancer, till now there isn't approach be able in prediction the
+mutated in tumor protein P53 which is caused high ratio of human cancers like
+breast, Blood, skin, liver, lung, bladder etc. This research proposed a new
+approach for prediction pre-cancer via detection malignant mutations in tumor
+protein P53 using bioinformatics tools like FASTA, BLAST, CLUSTALW and TP53
+databases worldwide. Implement and apply this new approach of prediction
+pre-cancer through mutations at tumor protein P53 shows an effective result
+when used more specific parameters/features to extract the prediction result
+that means when the user increase the number of filters of the results which
+obtained from the database gives more specific diagnosis and classify, addition
+that the detecting pre-cancer via prediction mutated tumor protein P53 will
+reduces a person's cancers in the future by avoiding exposure to toxins,
+radiation or monitoring themselves at older ages by change their food,
+environment, even the pace of living. Also that new approach of prediction
+pre-cancer will help if there is any treatment can give for that person to
+therapy the mutated tumor protein P53. Index Terms (Normal Homology TP53 gene,
+Tumor Protein P53, Oncogene Labs, GC and AT content, FASTA, BLAST, ClustalW)",http://arxiv.org/abs/1310.2182v1
+,Structural Effects and Competition Mechanisms Targeting the Interactions between p53 and Mdm2 for Cancer Therapy,Shuxia Liu; Yizhao Geng; Shiwei Yan,arXiv,2017,,,,,,,"About half of human cancers show normal TP53 gene and aberrant overexpression
+of Mdm2 and/or MdmX. This fact promotes a promising cancer therapeutic strategy
+which targeting the interactions between p53 and Mdm2/MdmX. For developing the
+inhibitors to disrupt the p53-Mdm2/MdmX interactions, we systematically
+investigate structural and interaction characteristics of p53 and inhibitors
+with Mdm2 and MdmX from atomistic level by exploiting stochastic molecular
+dynamics simulations. We find that some specific $\alpha$ helices in Mdm2 and
+MdmX structure play key role in their bindings with inhibitors and the hydrogen
+bond formed by residue Trp23 of p53 with its counterpart in Mdm2/MdmX
+determines dynamical competition processes of the disruption of Mdm2-p53
+interaction and replacement of p53 from Mdm2-p53 complex {\it in vivo}. We hope
+that the results reported in this paper provide basic information for designing
+functional inhibitors and realizing cancer gene therapy.",http://arxiv.org/abs/1701.04967v1
+,Novel Mining of Cancer via Mutation in Tumor Protein P53 using Quick Propagation Network,Ayad Ghany Ismaeel; Raghad Zuhair Yousif,arXiv,2015,,,,,,,"There is multiple databases contain datasets of TP53 gene and its tumor
+protein P53 which believed to be involved in over 50% of human cancers cases,
+these databases are rich as datasets covered all mutations caused diseases
+(cancers), but they haven't efficient mining method can classify and diagnosis
+mutations patient's then predict the cancer of that patient. This paper
+proposed a novel mining of cancer via mutations because there is no mining
+method before offers friendly, effective and flexible predict or diagnosis of
+cancers via using whole common database of TP53 gene (tumor protein P53) as
+dataset and selecting a minimum number of fields in training and testing quick
+propagation algorithm which supporting this miming method. Simulating quick
+propagation network for the train dataset shows results the Correlation
+(0.9999), R-squared (0.9998) and mean of Absolute Relative Error (0.0029),
+while the training for the ALL datasets (train, test and validation dataset)
+have results the Correlation (0.9993), R-squared (0.9987) and mean of Absolute
+Relative Error (0.0057).",http://arxiv.org/abs/1505.06751v1
+,Effective Data Mining Technique for Classification Cancers via Mutations in Gene using Neural Network,Ayad Ghany Ismaeel; Dina Yousif Mikhail,arXiv,2016,,,,,,,"The prediction plays the important role in detecting efficient protection and
+therapy of cancer. The prediction of mutations in gene needs a diagnostic and
+classification, which is based on the whole database (big dataset), to reach
+sufficient accuracy results. Since the tumor suppressor P53 is approximately
+about fifty percentage of all human tumors because mutations that occur in the
+TP53 gene into the cells. So, this paper is applied on tumor p53, where the
+problem is there are several primitive databases (excel database) contain
+datasets of TP53 gene with its tumor protein p53, these databases are rich
+datasets that cover all mutations and cause diseases (cancers). But these Data
+Bases cannot reach to predict and diagnosis cancers, i.e. the big datasets have
+not efficient Data Mining method, which can predict, diagnosis the mutation,
+and classify the cancer of patient. The goal of this paper to reach a Data
+Mining technique, that employs neural network, which bases on the big datasets.
+Also, offers friendly predictions, flexible, and effective classified cancers,
+in order to overcome the previous techniques drawbacks. This proposed technique
+is done by using two approaches, first, bioinformatics techniques by using
+BLAST, CLUSTALW, etc, in order to know if there are malignant mutations or not.
+The second, data mining by using neural network; it is selected (12) out of
+(53) TP53 gene database fields. To clarify, one of these 12 fields (gene
+location field) did not exists in TP53 gene database; therefore, it is added to
+the database of TP53 gene in training and testing back propagation algorithm,
+in order to classify specifically the types of cancers. Feed Forward Back
+Propagation supports this Data Mining method with data training rate (1) and
+Mean Square Error (MSE) (0.00000000000001). This effective technique allows in
+a quick, accurate and easy way to classify the type of cancer.",http://arxiv.org/abs/1608.02888v1
+,Autoantibody recognition mechanisms of p53 epitopes,J. C. Phillips,arXiv,2015,,,,,,,"There is an urgent need for economical blood based, noninvasive molecular
+biomarkers to assist in the detection and diagnosis of cancers in a cost
+effective manner at an early stage, when curative interventions are still
+possible. Serum autoantibodies are attractive biomarkers for early cancer
+detection, but their development has been hindered by the punctuated genetic
+nature of the ten million known cancer mutations. A recent study of 50,000
+patients (Pedersen et al., 2013) showed p53 15mer epitopes are much more
+sensitive colon cancer biomarkers than p53, which in turn is a more sensitive
+cancer biomarker than any other protein. The function of p53 as a nearly
+universal tumor suppressor is well established, because of its strong
+immunogenicity in terms of not only antibody recruitment, but also stimulation
+of autoantibodies. Here we examine bioinformatic fractal scaling analysis for
+identifying sensitive epitopes from the p53 amino acid sequence, and show how
+it could be used for early cancer detection (ECD). We trim 15mers to 7mers, and
+identify specific 7mers from other species that could be more sensitive to
+aggressive human cancers, such as liver cancer.",http://arxiv.org/abs/1509.01577v1
+,BRCA1- and BRCA2-Associated Hereditary Breast ...,,,,,,,,,,"BRCA1- and BRCA2-associated hereditary breast and ovarian cancer (HBOC) is characterized by an increased risk for female and male breast cancer, ovarian cancer.",https://www.ncbi.nlm.nih.gov/books/NBK1247/
+,Mutational analysis of telomere genes in BRCA1/2-negative breast cancer families with very short telomeres,K. Yanowsky; A. Barroso; A. Osorio; M. Urioste; J. Benítez; B. Martínez-Delgado,,2012,,,,,,,,https://www.semanticscholar.org/paper/ef0b0d60b6b3ede0006067da1bb71ea1e758b944
+,CFTR Protein: Not Just a Chloride Channel? - PMC,,,,,,,,,,"This review shows that the CFTR protein is not just a chloride channel. For a long time, research in CF has focused on abnormal Cl− and Na+ ...",https://pmc.ncbi.nlm.nih.gov/articles/PMC8616376/
+,Applying an electrostatic cross-correlation to the CFTR-ATP interaction,Alex Saad-Falcon; Mark Bolding; James Dee,arXiv,2024,,,,,,,"The cystic fibrosis transmembrane conductance regulator (CFTR) is an
+important membrane protein in vertebrates. The function of CFTR is to transport
+chloride ions across the cell membrane, which is known to require adenosine
+triphosphate (ATP). Whereas most conventional wisdom suggests that ATP
+interacts with CFTR purely through random collisions via diffusion, we
+investigate electrostatic interactions between CFTR and ATP at the mesoscale
+(10s of Angstroms). We use molecular dynamics to simulate CFTR-ATP interactions
+in cases where CFTR is bound/unbound from ATP, and we demonstrate an
+electrostatic potential gradient towards CFTR when ATP is unbound. We
+additionally compute electrostatic interactions between ATP and the solvent and
+membrane, which are simulated explicitly.",http://arxiv.org/abs/2404.09281v1
+,"Bayesian Quantile-Based Joint Modelling of Repeated Measurement and Time-to-Event data, with an Application to Lung Function Decline and Time to Infection in Patients with Cystic Fibrosis",Elisabeth Waldmann; David Taylor-Robinson,arXiv,2016,,,,,,,"Background: The most widely used approach to joint modelling of repeated
+measurement and time to event data is to combine a linear Gaussian random
+effects model for the repeated measurements with a log-Gaussian frailty model
+for the time-to-event outcome, linking the two through some form of correlation
+structure between the random effects and the log-frailty. In this approach,
+covariates are assumed to affect the mean response profile of the repeated
+measurement data. Objectives: Some applications raise substantive questions
+that cannot be captured by this structure. For example, an important question
+in cystic fibrosis (CF) research is to understand the impact of a patient's
+lung function trajectory on their risk of acquiring a variety of infections,
+and how this varies at different quantiles of the lung function distribution.
+Methods: Motivated by this question, we develop a joint quantile modelling
+framework in this paper with an associated Markov Chain Monte Carlo algorithm
+for Bayesian inference. Results: The translation from the common joint model
+towards quantile regression succeeds and is applied to CF data from the United
+Kingdom. The method helps detecting an overall difference in the relation
+between lung function decline and onset of infection in the different
+quantiles. Conclusions: Joint modelling without taking into account the special
+heteroscedastic structure is not sufficient in certain research question and
+the extensions towards models beyond the mean is necessary.",http://arxiv.org/abs/1609.02696v1
+,Specialized pro-resolving mediator Resolvin E1 corrects the altered cystic fibrosis nasal epithelium cilia beating dynamics,Valerie Urbach; Maëlle Briottet; Khadeeja Sy,arXiv,2023,,,,,,,"In cystic fibrosis (CF), impaired mucociliary clearance leads to chronic
+infection and inflammation. However, cilia beating features in a CF altered
+environment, consisting of dehydrated airway surface liquid layer and abnormal
+mucus, has not been fully characterized. Furthermore, acute inflammation is
+normally followed by an active resolution phase requiring specialized
+pro-resolving lipid mediators (SPMs) and allowing return to homeostasis.
+However, altered SPMs biosynthesis have been reported in CF. Here, we explored
+cilia beating dynamics in CF airways primary cultures and its response to the
+SPMs, resolvin E1 (RvE1) and lipoxin B4 (LXB4). Human nasal epithelial cells
+(hNECs) from CF and non-CF donors were grown at air-liquid interface. The
+ciliary beat frequency, synchronization, orientation, and density were analyzed
+from high-speed video-microscopy using multiscale Differential Dynamic
+Microscopy algorithm and an in-house developed method. Mucins and ASL layer
+height were studied by RT-qPCR and confocal microscopy. Principal component
+analysis showed that CF and non-CF hNEC had distinct cilia beating phenotypes,
+which was mostly explained by differences in cilia beat organization rather
+than frequency. Exposure to RvE1 (10 nM) and to LXB4 (10 nM) restored a non-CF
+like cilia beating phenotype. Furthermore, RvE1 increased the airway surface
+liquid (ASL) layer height and reduced the mucin MUC5AC thickness. The
+calcium-activated chloride channel, TMEM16A was involved in RvE1 effect on
+cilia beating, hydration and mucus. Altogether, our results provide evidence
+for defective cilia beating in CF airway epithelium and a role of RvE1 and LXB4
+to restore the main epithelial functions involved in the mucociliary clearance.",http://arxiv.org/abs/2312.06215v1
+,Unveiling the Impact of Social and Environmental Determinants of Health on Lung Function Decline in Cystic Fibrosis through Data Integration using the US Registry,Eleni-Rosalina Andrinopoulou; Emrah Gecili; Rhonda D Szczesniak,arXiv,2025,,,,,,,"Integrating diverse data sources offers a comprehensive view of patient
+health and holds potential for improving clinical decision-making. In Cystic
+Fibrosis (CF), which is a genetic disorder primarily affecting the lungs,
+biomarkers that track lung function decline such as FEV1 serve as important
+predictors for assessing disease progression. Prior research has shown that
+incorporating social and environmental determinants of health improves
+prognostic accuracy. To investigate the lung function decline among individuals
+with CF, we integrate data from the U.S. Cystic Fibrosis Foundation Patient
+Registry with social and environmental health information. Our analysis focuses
+on the relationship between lung function and the deprivation index, a
+composite measure of socioeconomic status.
+  We used advanced multivariate mixed-effects models, which allow for the joint
+modelling of multiple longitudinal outcomes with flexible functional forms.
+This methodology provides an understanding of interrelationships among
+outcomes, addressing the complexities of dynamic health data. We examine
+whether this relationship varies with patients' exposure duration to
+high-deprivation areas, analyzing data across time and within individual US
+states. Results show a strong relation between lung function and the area under
+the deprivation index curve across all states. These results underscore the
+importance of integrating social and environmental determinants of health into
+clinical models of disease progression. By accounting for broader contextual
+factors, healthcare providers can gain deeper insights into disease
+trajectories and design more targeted intervention strategies.",http://arxiv.org/abs/2506.08731v1
+,A factor graph EM algorithm for inference of kinetic microstates from patch clamp measurements,Alexander S. Moffett; Guiying Cui; Peter J. Thomas,arXiv,2021,,,,,,,"We derive a factor graph EM (FGEM) algorithm, a technique that permits
+combined parameter estimation and statistical inference, to determine hidden
+kinetic microstates from patch clamp measurements. Using the cystic fibrosis
+transmembrane conductance regulator (CFTR) and nicotinic acetylcholine receptor
+(nAChR) as examples, we perform {\em Monte Carlo} simulations to demonstrate
+the performance of the algorithm. We show that the performance, measured in
+terms of the probability of estimation error, approaches the theoretical
+performance limit of maximum {\em a posteriori} estimation. Moreover, the
+algorithm provides a reliability score for its estimates, and we demonstrate
+that the score can be used to further improve the performance of estimation. We
+use the algorithm to estimate hidden kinetic states in lab-obtained CFTR single
+channel patch clamp traces.",http://arxiv.org/abs/2106.09594v1
