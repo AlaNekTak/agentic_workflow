@@ -16,9 +16,17 @@ def dispatch(msg, hist, trace, thumbs_state):
     
     # ── Run the agent ──────────────────────────────────────────────
     resp   = agent.invoke({"messages": chat_history})
-    answer      : str           = resp["output"]["answer"]
-    new_thumbs  : list[tuple]    = resp["output"]["thumbs"]
-    new_traces  : list[str]      = resp["output"]["traces"]
+
+    out = resp["output"]        # could be str or dict
+
+    if isinstance(out, str):               # LLM replied directly
+        answer      = out
+        new_thumbs  = []
+        new_traces  = []
+    else:                                  # a graph tool fired
+        answer      = out.get("answer", "")
+        new_thumbs  = out.get("thumbs", [])
+        new_traces  = out.get("traces", [])
 
     chat_history.append({"role": "assistant", "content": answer})
     hist = chat_history   
@@ -93,7 +101,7 @@ with gr.Blocks(css=HEADER_CSS) as back:
 
 demo = gr.TabbedInterface(
     [front, back],
-    ["Interface", "Backend"]
+    ["Interface", "Tracing"]
 )
 
 demo.launch(debug=True)
